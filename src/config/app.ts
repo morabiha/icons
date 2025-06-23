@@ -18,7 +18,7 @@ export const appConfig: AppConfig = {
 	cacheRootDir: 'cache',
 
 	// Host and port for server
-	host: '0.0.0.0',
+	host: 'localhost',
 	port: 3000,
 
 	// Log stuff
